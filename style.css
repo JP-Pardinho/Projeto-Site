@@ -24,6 +24,8 @@ h2 {
 }
 
 img.lado {
+    display: block;
+    margin: auto;
     float: center;
 }
 
